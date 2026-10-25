@@ -1,2 +1,2 @@
-# Oros
-Initial repository for Oros
+# Outscale
+Initial repository for Outscale
