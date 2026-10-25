@@ -1,2 +1,2 @@
 # Outscale
-Initial repository for Outscale
+Beyond horizons
